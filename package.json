@@ -1,0 +1,31 @@
+{
+  "name": "node-todo",
+  "version": "1.0.0",
+  "description": "node angular mongol",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nsonanh/node-todo.git"
+  },
+  "keywords": [
+    "node",
+    "angular",
+    "mongol"
+  ],
+  "author": "nsonanh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nsonanh/node-todo/issues"
+  },
+  "homepage": "https://github.com/nsonanh/node-todo#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "method-override": "^3.0.0",
+    "mongoose": "^5.3.16",
+    "morgan": "^1.9.1"
+  }
+}
